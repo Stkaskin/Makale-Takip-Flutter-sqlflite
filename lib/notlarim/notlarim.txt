@@ -1,0 +1,11 @@
+kaldığım yer
+hakem olarka giriş yaptığında hakemlerin idsine göre ilgili makaleler 
+davet bölümünde açılır 
+onay btn icine fonksiyon olarak onay yazılır 
+hakemler oyladıktan sonra 3 hakemin oylamasına bağlı olarak
+makale durum değişir
+
+alan editör hakem ve yazar silindiğinde olacaklar .
+alan editörde ilgili makale işleyişi durur bas e yeni alan e atar
+hakem ilgili makaleden ilişkisi kesilir
+yazar işleyişte olan yazıları direkt olarak red olur. 
